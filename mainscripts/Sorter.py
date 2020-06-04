@@ -589,7 +589,7 @@ def sort_best_faster(input_path):
     return sort_best(input_path, faster=True)
 
 def sort_best(input_path, faster=False):
-    target_count = io.input_int ("Target number of faces?", 2000)
+    target_count = 2000 # io.input_int ("Target number of faces?", 2000)
 
     io.log_info ("Performing sort by best faces.")
     if faster:
