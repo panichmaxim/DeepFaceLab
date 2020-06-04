@@ -85,7 +85,7 @@ def cut_video ( input_file, from_time=None, to_time=None, audio_track_id=None, b
     except:
         io.log_err ("ffmpeg fail, job commandline:" + str(job.compile()) )
 
-def denoise_image_sequence( input_dir, ext=None, factor=None ):
+def denoise_image_sequence( input_dir, factor=None ):
     input_path = Path(input_dir)
 
     if not input_path.exists():
