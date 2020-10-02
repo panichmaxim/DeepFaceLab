@@ -37,8 +37,8 @@ DeepFaceLab is used by such popular youtube channels as
 |![](doc/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|![](doc/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](doc/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|
 |---|---|---|
 
-|![](doc/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|![](doc/youtube_icon.png) [Futuring Machine](https://www.youtube.com/channel/UCC5BbFxqLQgfnWPhprmQLVg)|
-|---|---|
+|![](doc/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|![](doc/youtube_icon.png) [Futuring Machine](https://www.youtube.com/channel/UCC5BbFxqLQgfnWPhprmQLVg)|![](doc/youtube_icon.png) [RepresentUS](https://www.youtube.com/channel/UCRzgK52MmetD9aG8pDOID3g)|
+|---|---|---|
 
 </td></tr>
 
@@ -139,13 +139,22 @@ DeepFaceLab is used by such popular youtube channels as
 
 <tr><td colspan=2 align="center">
 
-## Change the lip movement of politicians*
+## Manipulate politicians speech
+(requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*)
 
-<img src="doc/political_speech.jpg" align="center">
+<img src="doc/political_speech1.jpg" align="center">
 
 ![](doc/youtube_icon.png) https://www.youtube.com/watch?v=2Z1oA3GYPaY
 
-\* also requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*
+
+<img src="doc/political_speech2.jpg" align="center">
+
+![](doc/youtube_icon.png) https://www.youtube.com/watch?v=sbFHhpYU15w
+
+<img src="doc/political_speech3.jpg" align="center">
+
+![](doc/youtube_icon.png) https://www.youtube.com/watch?v=ERQlaJ_czHU
+
 </td></tr>
 <tr><td colspan=2 align="center">
 
@@ -182,7 +191,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td></tr>
 
 <tr><td align="right">
-<a href="https://pastebin.com/LLysqZpY">Windows (magnet link)</a>
+<a href="https://tinyurl.com/y6npm2su">Windows (magnet link)</a>
 </td><td align="center">Last release. Use torrent client to download.</td></tr>
 
 <tr><td align="right">
